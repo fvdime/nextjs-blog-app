@@ -1,3 +1,26 @@
+# nextjs-blog-app
+
+## Description
+
+Full stack blog app with NextJS, MongoDB, Google Auth
+
+## How it looks?
+![Screenshot 2023-07-07 200830](https://github.com/fvdime/nextjs-blog-app/assets/73942727/3acc0194-0b5e-4540-aca0-0e4bef863378)
+![Screenshot 2023-07-07 200632](https://github.com/fvdime/nextjs-blog-app/assets/73942727/c34fe980-5efc-4ef0-ab34-3b6b8bef058e)
+
+
+## Credits
+
+I followed Lama Dev's tutorial for this project please check out his channel! --> https://youtu.be/VE8BkImUciY
+
+## BONUS
+
+My Figma Project
+
+![Screenshot 2023-07-01 014038](https://github.com/fvdime/nextjs-blog-app/assets/73942727/39f09866-85a1-461a-b28c-2465f65e886c)
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
